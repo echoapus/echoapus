@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @echoapus
 - 👀 I’m interested in TCP/IP, DDoS Mitigation
-- 🌱 I’m currently learning linux script
+- 🌱 I’m currently learning linux script and python
 - 💞️ I’m looking to collaborate on andy opportunity
 
 <!---
@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Trying to be an engineer
 
-A linux beginner
+A linux beginner 
