@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @echoapus
 - 👀 I’m interested in TCP/IP, DDoS Mitigation
 - 🌱 I’m currently learning linux script and python
-- 💞️ I’m looking to collaborate on andy opportunity
+
 
 <!---
 echoapus/echoapus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
