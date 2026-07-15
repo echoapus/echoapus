@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jessica (@echoapus)
+# 👋 Hi, I'm @echoapus
 
 <p align="center">
   <a href="https://github.com/echoapus">
